@@ -1,0 +1,4 @@
+opencv-python
+python-dotenv
+ultralytics==8.4.5
+PyYAML
