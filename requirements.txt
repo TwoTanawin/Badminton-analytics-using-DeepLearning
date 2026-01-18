@@ -3,3 +3,4 @@ python-dotenv
 ultralytics==8.4.5
 PyYAML
 lap
+deep-sort-realtime
