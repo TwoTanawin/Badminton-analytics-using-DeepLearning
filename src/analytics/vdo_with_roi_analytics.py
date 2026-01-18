@@ -1,10 +1,9 @@
 import cv2
 from ultralytics import YOLO
 import asyncio
-import numpy as np
 import torch
 
-from draw_roi import ROITool
+from modules.draw_roi import ROITool
 
 class VDOAnalytics:
     def __init__(self):

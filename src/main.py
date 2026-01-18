@@ -1,9 +1,9 @@
 import cv2
 import asyncio
 import numpy as np
-from draw_roi import ROITool
-from analytics import YoloAnalytics
-from score_system import ScoreSystem
+from .modules.draw_roi import ROITool
+from .modules.analytics import YoloAnalytics
+from .modules.score_system import ScoreSystem
 
 class VDOAnalytics:
     def __init__(self):

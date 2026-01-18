@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-from draw_roi import ROITool
+from .draw_roi import ROITool
 
 
 class ScoreSystem:
